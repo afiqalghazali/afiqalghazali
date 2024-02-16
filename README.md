@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Afiq.
+## Hi! 👋 I'm Afiq.
 
 A Passionate designer and front-end developer crafting visually stunning and user-friendly digital experiences. 🎨✨.
 
