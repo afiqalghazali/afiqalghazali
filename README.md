@@ -1,19 +1,28 @@
-## Hi! 👋 I'm Afiq.
+![Header](github-header-banner.png)
 
-A Passionate designer and front-end developer crafting visually stunning and user-friendly digital experiences. 🎨✨.
+### Hey There! 👋
 
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <br>
-  <br>
-  
-### Github Statistic
-<p align="left">
-<a href="https://github.com/afiqalghazali">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afiqalghazali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+I love turning ideas into experiences — from designing engaging UI/UX systems to building them into real products on web and mobile platforms.
 
-### Reach me on
-- <a href="https://linkedin.com/in/afiqalghazali/">LinkedIn</a>
+#### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,python)](https://skillicons.dev)
+
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+#### Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afiqalghazali_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afiqalghazali/)
+
+#### My GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight" height="180px"/>
+</div>
