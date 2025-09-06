@@ -22,7 +22,7 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
 
 ## My GitHub Stats
 
-<div align="center" style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&langs_count=6&theme=tokyonight" height="200"/>
 </div>
