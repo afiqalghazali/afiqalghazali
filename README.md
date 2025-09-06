@@ -1,10 +1,10 @@
 ![Header](github-header-banner.png)
 
-# Hey There! 👋
+## Hey There! 👋
 
 I love turning ideas into experiences — from designing engaging UI/UX systems to building them into real products on web and mobile platforms.
 
-## Skills
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,python)](https://skillicons.dev)
 
@@ -16,13 +16,11 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-## Connect with me
+### Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afiqalghazali_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afiqalghazali/)
 
-## My GitHub Stats
+### My GitHub Stats
 
-<div style="display: flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&langs_count=6&theme=tokyonight" height="200"/>
-</div>
+![Afiqal's GitHub stats](https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight)
