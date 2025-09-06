@@ -23,5 +23,3 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
 ### My GitHub Stats
 
 ![Afiqal's GitHub stats](https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight)
