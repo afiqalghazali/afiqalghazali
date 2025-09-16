@@ -4,9 +4,7 @@
 
 I love turning ideas into experiences — from designing engaging UI/UX systems to building them into real products on web and mobile platforms.
 
-### 🧠 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,python)](https://skillicons.dev)
+### ⚙️ Tech Stack
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
