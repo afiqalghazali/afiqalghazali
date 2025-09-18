@@ -12,6 +12,7 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-23ED8B0?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
 ## 📈 My GitHub Stats
