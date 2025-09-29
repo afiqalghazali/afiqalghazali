@@ -6,13 +6,24 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
 
 ## ⚙️ Tech Stack
 
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=html">
+  <img src="https://skillicons.dev/icons?i=css">
+  <img src="https://skillicons.dev/icons?i=javascript">
+  <img src="https://skillicons.dev/icons?i=react">
+  <img src="https://skillicons.dev/icons?i=jquery">
+  <img src="https://skillicons.dev/icons?i=bootstrap">
+  <img src="https://skillicons.dev/icons?i=tailwind">
+  <img src="https://skillicons.dev/icons?i=nodejs">
+  <img src="https://skillicons.dev/icons?i=npm">
+  <img src="https://skillicons.dev/icons?i=androidstudio">
+  <img src="https://skillicons.dev/icons?i=kotlin">
+  <img src="https://skillicons.dev/icons?i=firebase">
+  <img src="https://skillicons.dev/icons?i=java">
+  <img src="https://skillicons.dev/icons?i=python">
+  <img src="https://skillicons.dev/icons?i=github">
+  <img src="https://skillicons.dev/icons?i=vscode">
+  <img src="https://skillicons.dev/icons?i=figma">
 </div>
 
 ## 📈 My GitHub Stats
