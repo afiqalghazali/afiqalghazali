@@ -17,9 +17,21 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
 
 ## 📈 My GitHub Stats
 
-| GitHub Stats                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Top Languages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/afiqalghazali"><picture><source srcset="https://github-readme-stats-afiqalghazali.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-stats-afiqalghazali.vercel.app/api?username=afiqalghazali&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /><img height="200" src="https://github-readme-stats-afiqalghazali.vercel.app/api?username=afiqalghazali&show_icons=true" /></picture></a> | <a href="https://github.com/afiqalghazali"><picture><source srcset="https://github-readme-stats-afiqalghazali.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-stats-afiqalghazali.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /><img height="200" src="https://github-readme-stats-afiqalghazali.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact" /></picture></a> |
+<a href="https://github.com/afiqalghazali">
+    <picture>
+        <source srcset="https://github-readme-stats-afiqalghazali.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats-afiqalghazali.vercel.app/api?username=afiqalghazali&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img height="200" width="400" src="https://github-readme-stats-afiqalghazali.vercel.app/api?username=afiqalghazali&show_icons=true" />
+    </picture>
+</a>
+
+<a href="https://github.com/afiqalghazali">
+    <picture>
+        <source srcset="https://github-readme-stats-afiqalghazali.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats-afiqalghazali.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img height="200" width="400" src="https://github-readme-stats-afiqalghazali.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact" />
+    </picture>
+</a>
 
 ## 🤝 Connect with me
 
