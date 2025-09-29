@@ -27,7 +27,6 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true" />
   </picture>
 </a>
-
 <a href="https://github.com/afiqalghazali">
   <picture>
     <!-- Dark theme image -->
