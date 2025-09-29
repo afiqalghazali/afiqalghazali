@@ -1,10 +1,12 @@
 name: Update README with GitHub Stats
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    # Runs once every day at midnight UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch: # allow manual trigger
+    - cron: "0 0 * * *" # runs daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   build:
@@ -24,5 +26,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add stats.svg langs.svg
-          git commit -m "chore: update GitHub stats"
+          git commit -m "chore: update GitHub stats" || echo "No changes to commit"
           git push
