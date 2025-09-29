@@ -17,26 +17,18 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
 
 ## 📈 My GitHub Stats
 
-<a href="https://github.com/afiqalghazali">
-  <picture>
-    <!-- Dark theme image -->
-    <source srcset="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-    <!-- Light theme image -->
-    <source srcset="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <!-- Default image -->
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true" />
-  </picture>
-</a>
-<a href="https://github.com/afiqalghazali">
-  <picture>
-    <!-- Dark theme image -->
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-    <!-- Light theme image -->
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <!-- Default image -->
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact" />
-  </picture>
-</a>
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/afiqalghazali">
+    <picture>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight" />
+    </picture>
+  </a>
+  <a href="https://github.com/afiqalghazali">
+    <picture>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight" />
+    </picture>
+  </a>
+</div>
 
 ## 🤝 Connect with me
 
