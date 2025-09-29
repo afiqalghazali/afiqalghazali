@@ -17,18 +17,12 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
 
 ## 📈 My GitHub Stats
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/afiqalghazali">
-    <picture>
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight" />
-    </picture>
-  </a>
-  <a href="https://github.com/afiqalghazali">
-    <picture>
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight" />
-    </picture>
-  </a>
-</div>
+<a href="https://github.com/afiqalghazali">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/afiqalghazali">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight" />
+</a>
 
 ## 🤝 Connect with me
 
