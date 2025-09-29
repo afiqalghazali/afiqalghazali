@@ -7,9 +7,7 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
 ## ⚙️ Tech Stack
 
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,jquery,bootstrap,tailwind,nodejs,npm,androidstudio,kotlin,firebase,java,python,github,vscode,figma&perline3" />
-    </a>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,jquery,bootstrap,tailwind,nodejs,androidstudio,kotlin,firebase,java,python,vscode,figma" />
 </p>
 
 ## 📈 My GitHub Stats
