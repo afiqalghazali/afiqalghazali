@@ -17,8 +17,27 @@ I love turning ideas into experiences — from designing engaging UI/UX systems 
 
 ## 📈 My GitHub Stats
 
-![Afiq's GitHub stats](./stats.svg)
-![Top Langs](./langs.svg)
+<a href="https://github.com/afiqalghazali">
+  <picture>
+    <!-- Dark theme image -->
+    <source srcset="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <!-- Light theme image -->
+    <source srcset="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <!-- Default image -->
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=afiqalghazali&show_icons=true" />
+  </picture>
+</a>
+
+<a href="https://github.com/afiqalghazali">
+  <picture>
+    <!-- Dark theme image -->
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <!-- Light theme image -->
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <!-- Default image -->
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqalghazali&layout=compact" />
+  </picture>
+</a>
 
 ## 🤝 Connect with me
 
